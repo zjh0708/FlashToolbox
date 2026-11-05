@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>FlashToolbox.Module.ScreenMirror</AssemblyName>
+    <RootNamespace>FlashToolbox.Module.ScreenMirror</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\FlashToolbox.Contracts\FlashToolbox.Contracts.csproj" />
+  </ItemGroup>
+</Project>
