@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-11-06T03:15:56Z",
+  "modules": [
+    {
+      "id": "screen-mirror",
+      "name": "投屏",
+      "latest": "1.0.1",
+      "manifest": "screen-mirror/1.0.1/manifest.json"
+    },
+    {
+      "id": "device-info",
+      "name": "设备信息",
+      "latest": "1.0.0",
+      "manifest": "device-info/1.0.0/manifest.json"
+    },
+    {
+      "id": "rom-zone",
+      "name": "ROM专区",
+      "latest": "1.0.1",
+      "manifest": "rom-zone/1.0.1/manifest.json"
+    }
+  ]
+}

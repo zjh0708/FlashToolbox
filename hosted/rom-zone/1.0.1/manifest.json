@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "id": "rom-zone",
+  "version": "1.0.1",
+  "entry": "FlashToolbox.Module.RomZone.dll",
+  "runtime": "net8.0-windows",
+  "package": "module.zip",
+  "sha256": "22ed0c03e3621baa5b3d8fc2df94a9b33e4eeea780e5aa3922d1861ab16207d6",
+  "size": 56510,
+  "depends": [],
+  "minShell": "1.0.0"
+}
